@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nobel-prize-list/static/css/main.8656e523.css",
+    "main.js": "/nobel-prize-list/static/js/main.ca1b2c84.js",
+    "static/js/787.4f017209.chunk.js": "/nobel-prize-list/static/js/787.4f017209.chunk.js",
+    "index.html": "/nobel-prize-list/index.html",
+    "main.8656e523.css.map": "/nobel-prize-list/static/css/main.8656e523.css.map",
+    "main.ca1b2c84.js.map": "/nobel-prize-list/static/js/main.ca1b2c84.js.map",
+    "787.4f017209.chunk.js.map": "/nobel-prize-list/static/js/787.4f017209.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8656e523.css",
+    "static/js/main.ca1b2c84.js"
+  ]
+}
