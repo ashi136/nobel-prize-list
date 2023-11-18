@@ -57,7 +57,6 @@ export default function List() {
               </option>
             ))}
           </select>
-        <button className='btn btn-success text-white'>Multiple time winners</button>
         </div>
       </div>
 
